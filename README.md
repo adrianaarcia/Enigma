@@ -1,5 +1,5 @@
 # Enigma
-Testing the NSA's Enigma machine implementation.
+Testing the NSA's Enigma machine implementation. Last Updated: 11/11/2020
 
 ## Description 
 This project is focused on unit testing and measuring code coverage for a simulated Enigma machine.  To learn a bit about the history of this 
